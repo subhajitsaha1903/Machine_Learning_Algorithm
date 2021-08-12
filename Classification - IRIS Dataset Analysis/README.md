@@ -1,6 +1,6 @@
 # Iris dataset analysis - Classification
 
-**Complete Video Tutorial:** https://youtu.be/pTjsr_0YWas
+
 
 # Dataset Information
 
@@ -29,4 +29,4 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 <li>K-Nearest Neighbors
 <li>Decision Tree
   
-**Best Model Accuracy:** 100.00
+
