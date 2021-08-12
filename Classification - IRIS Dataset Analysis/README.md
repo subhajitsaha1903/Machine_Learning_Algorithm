@@ -1,4 +1,4 @@
-# Iris dataset analysis - Classification
+# IRIS dataset analysis - Classification
 
 
 
